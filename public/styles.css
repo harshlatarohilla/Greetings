@@ -1,0 +1,9 @@
+.head{
+    color:blue;
+}
+
+.btn{
+    border: 1px solid rgb(232, 143, 84);
+    background-color: rgb(255, 221, 194);
+    box-shadow: 2px 2px  black;
+}
